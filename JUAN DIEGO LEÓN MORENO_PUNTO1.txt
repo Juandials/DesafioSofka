@@ -1,0 +1,17 @@
+1. La calidad de software se refiere a todos aquellos procesos y normativas que se aplican en el diseño de un producto,
+   para obtener un software que se ajuste a estandares de calidad definidos en la industria.
+2. Sistema de control de versiones centralizado: Su estructura es centralizada tipo cliente-servidor.						   
+   Sistema de control de versiones distribuido: Su estructura es desentralizada tipo p2p, por lo tanto el repositorio 
+   						es mantenido por los mismos desarrolladores.
+3. git clone.
+4. 
+   a. Error.
+   b. 
+   c. Muestra lo archivos que están siendo monitorizados.
+   d. Sincroniza los archivos del repositorio remoto con el repositorio local.
+   e. Sincroniza los archivos del repositorio local con el repositorio remoto.
+   f. Captura los nuevos cambios realizados en el repositorio local y añade la nota "Hola".
+   g. Muestra el historial de commits.
+5. Herencia: La generalización permite adoptar comportamientos y atributos de una clase padre a una clase hija.
+   Poliformismo: Es la capacidad de una clase de especificar comportamientos generales, que serán implementados por sus
+                 clases hijas de manera especifica.
