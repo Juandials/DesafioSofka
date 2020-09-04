@@ -27,5 +27,5 @@ Para ejecutar se debe utilizar un IDE compatible con Java, importar el proyecto 
 
 ## Observaciones📋
 - Se cumplieron los requerimientos a cabalidad
-- Se usó la prátcia de camel case para nombrar variables, métodos,, calses y paquetes
-- Se utilizaron buenas práctics de programación (código comentado, POO)
+- Se utilizó el estilo de escritura camel case para nombrar variables, métodos, clases y paquetes
+- Se utilizaron buenas práctics de programación (código comentado, significado explicito (de variables, métodos y clases), POO)
