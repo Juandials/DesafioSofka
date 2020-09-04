@@ -26,4 +26,6 @@ Este algoritmo se construyó utilizando 4 clases, las cuales se describirán a c
 Para ejecutar se debe utilizar un IDE compatible con Java, importar el proyecto y ejecutarlo en el IDE, el metodo main se encuentra en la clase Main.java, todas las salidas se dan por consola
 
 ## Observaciones📋
-Se cumplieron los requerimientos a cabalidad
+- Se cumplieron los requerimientos a cabalidad
+- Se usó la prátcia de camel case para nombrar variables, métodos,, calses y paquetes
+- Se utilizaron buenas práctics de programación (código comentado, POO)
