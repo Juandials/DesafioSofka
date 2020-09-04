@@ -12,6 +12,7 @@ Este algoritmo se construyó utilizando 4 clases, las cuales se describirán a c
 - **Main:** Se ejecutan los algoritmos planteados en cada punto,
   -  Se ejecuta el algoritmo "Pasaje de avión" (se instancia un objeto de esta clase y se envían los parámetros para realizar las operaciones)
   -  Se ejecuta el algoritmo "Boing 747" (Se instancia una lista de tipo <Boing 747> la cuál almacenará los valores de la tabla de seguimiento, se insertan los bultos y se realizan las operaciones solicitadas)
+  - Se realiza la validación de carga máxima, se muestra la tabla de seguimiento y se realiza la conversión de pesos (COP) a dolares (USD)
 - **PasajeDeAvion:** 
   - Se definen los atributos de tarifa por kilometro y costo de pasaje
   - Se implementa el metodo para definir el precio del pasaje, según los parámetros de dias de estancias y kilometros
